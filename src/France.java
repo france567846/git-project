@@ -9,6 +9,7 @@ public class France {
 				 count++;
 			 }
 		 } 
+		 System.out.println("Hello!");
 		 System.out.println("Количество null " + count);
 	}
 }
